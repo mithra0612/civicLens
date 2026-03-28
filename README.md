@@ -6,7 +6,8 @@
 ## 👨‍💻 My Repository Contributions
 
 The following graph represents my contribution activity to this collaborative repository.
-<img width="550" height="273" alt="image" src="https://github.com/user-attachments/assets/ee026bea-33f8-48a3-b942-2d8c2cb12721" />
+
+<img width="530" height="261" alt="image" src="https://github.com/user-attachments/assets/d05addec-e2d4-42b9-972a-d5d873c989c2" />
 
 ---
 
