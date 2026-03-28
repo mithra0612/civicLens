@@ -3,6 +3,12 @@
 **Civic Lens** is a citizen-centric platform that transforms complex government data into actionable insights. Focused on Kerala, it provides ward-level dashboards, real-time project monitoring, geo-tagged issue reporting, and an AI-powered RTI assistant to enhance transparency, accountability, and civic engagement.  
 
 ---
+## 👨‍💻 My Repository Contributions
+
+The following graph represents my contribution activity to this collaborative repository.
+<img width="550" height="273" alt="image" src="https://github.com/user-attachments/assets/ee026bea-33f8-48a3-b942-2d8c2cb12721" />
+
+---
 
 ## **Core Features**
 
